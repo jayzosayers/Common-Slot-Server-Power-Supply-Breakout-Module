@@ -55,3 +55,6 @@ In theory, all "common slot" PSUs should be compatible, however I've included a 
 
 ## PCB Schematic
 ![Schematic](https://i.ibb.co/WtMRFzG/Schematic.jpg)
+
+## PCB Design Screenshot
+![PCB Design Screenshot](https://i.ibb.co/YT5NgW8/PCB.jpg)
