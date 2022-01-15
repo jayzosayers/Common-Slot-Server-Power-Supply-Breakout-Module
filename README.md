@@ -58,3 +58,8 @@ In theory, all "common slot" PSUs should be compatible, however I've included a 
 
 ## PCB Design Screenshot
 ![PCB Design Screenshot](https://i.ibb.co/YT5NgW8/PCB.jpg)
+
+## Credits and Further Reading
+This project would not be possible without the previous work of many others. You can additionally read more into the proper usage of the data pins in the sources linked below.
+
+###
