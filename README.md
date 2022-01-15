@@ -62,4 +62,15 @@ In theory, all "common slot" PSUs should be compatible, however I've included a 
 ## Credits and Further Reading
 This project would not be possible without the previous work of many others. You can additionally read more into the proper usage of the data pins in the sources linked below.
 
-###
+### Colintd
+Colin is one of the people who worked out the [pinouts of the PSUs](https://colintd.blogspot.com/2016/10/hacking-hp-common-slot-power-supplies.html)
+
+### Raplin
+Raplin has produced a detailed teardown of the DPS-1200FB module which he's documented [here](https://github.com/raplin/DPS-1200FB)
+
+### Slundell
+Slundell also has a pinout for the devices, plus has more info relating to the data that can be pulled via PMBus/SMBus/I2C using the two data pins.
+https://github.com/slundell/dps_charger
+
+### Datasheet for a similar compatible supply
+This datasheet also covers pinouts and explains them in greater detail. It's not for an HP DPS-750 or DPS-1200 Power supply but they apparently use a compatible pinout. https://www.murata.com/products/productdata/8807027081246/d1u86p-w-1600-12-hbxdc.pdf?1583754811000
