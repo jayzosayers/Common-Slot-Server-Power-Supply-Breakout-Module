@@ -1,6 +1,10 @@
 # Common Slot Server Power Supply Breakout Board
 ## Introduction
-This is a breakout module designed to make custom backplanes for common slot power supplies. The PCB is simple in design, and allows you to access the 12V from any compatible server power supply via four pairs of convenient terminals, and provides a breakout of the data pins to be able to communicate with the supply via a microcontroller or other methods. **Note:** The PCB alone will not enable the outputs. See below on how to enable the 12V outputs.
+This is a breakout module designed to make custom backplanes for common slot power supplies. The PCB is simple in design, and allows you to access the 12V from any compatible server power supply via four pairs of convenient terminals, and provides a breakout of the data pins to be able to communicate with the supply via a microcontroller or other methods.
+
+I designed this module to help me design a custom backplane for a DIY power supply featuring common slot power supplies. I hope others find this useful, either for making their own backplane like me, or for a quick, dirty way of making a module for converting the edge connector into a convenient connector and/or place to solder two wires.
+
+**Note:** The PCB alone will not enable the outputs. See below on how to enable the 12V outputs.
 ![Assembled PCB](https://i.ibb.co/xDVyD26/DSC-0758.jpg)
 
 ## Things you'll need
